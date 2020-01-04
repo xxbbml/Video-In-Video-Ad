@@ -3,10 +3,4 @@ We present an innovative way for Video-In-Video advertising using multimodal mod
 
 Here are some example videos of our proposed method and compared methods:
 
-<iframe 
-    width="800" 
-    height="450" 
-    src="https://github.com/xxbbml/Video-In-Video-Ad/blob/master/example_videos/VideoSense/a.mp4"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ROlQ0jexE00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
