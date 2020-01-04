@@ -3,4 +3,5 @@ We present an innovative way for Video-In-Video advertising using multimodal mod
 
 Here are some example videos of our proposed method and compared methods:
 
-[![Concatenating Features]]({https://github.com/xxbbml/Video-In-Video-Ad/tree/master/example_videos/Concatenating%20Features} "Link Title")
+<video src="video.mp4" width="320" height="200" controls preload></video>
+
